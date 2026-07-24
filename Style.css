@@ -1,6 +1,42 @@
-.bodycontent{
-   align-items: center;
+title{
+   text-align: center;
 }
 
+.header{
+   text-align: center;
+   height: 100px;
+   padding-top: 43px;
+   font-size: smaller;
+   font-weight: lighter;
+   background-color: antiquewhite;
+}
 
+.buttona{
+   margin: 10px;
+   text-align: center;
+}
+
+button:hover{
+   background-color: rgb(12, 12, 12);
+   color: white;
+}
+
+.sidebar{
+   justify-content: center;
+   align-items: center;
+   color: white;
+   background-color: black;
+   width: 150px;
+   height: 250px;
+}
+
+.sidebarList{
+   align-items: center;
+   justify-content: center;
+   text-align: justify;
+}
+ 
+.studentForm{
+   text-align: center;
+}
 
